@@ -1,0 +1,15 @@
+.tl-diy-btn{
+  display: inline-block;
+  border-radius: 3px;
+  line-height: 22px;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.tl-diy-btn:hover{
+  border-color: skyblue;
+  color: skyblue;
+}
